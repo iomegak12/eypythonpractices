@@ -1,0 +1,4 @@
+django==2.0.4
+gunicorn==19.7.1
+djangorestframework==3.8.2
+djangorestframework_jwt==1.11.0
